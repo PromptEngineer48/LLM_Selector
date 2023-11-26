@@ -1,6 +1,7 @@
 # LLM_Selector
+# Auto Select the Best LLM for Your Use Case or Queries
 
-# Clone this Repo on your local drive and then get started.
+Clone this Repo on your local drive and then get started.
 
 This code selects the best model for your specific question.
 
