@@ -1,5 +1,7 @@
 # LLM_Selector
 # Auto Select the Best LLM for Your Use Case or Queries
+Check out the youtube video
+https://youtu.be/zCKwnfHB99k
 
 Clone this Repo on your local drive and then get started.
 
