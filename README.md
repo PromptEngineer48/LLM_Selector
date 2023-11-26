@@ -30,4 +30,8 @@ requirements.txt +> Run these requirements before running any codes above ("pip 
 # REQUIREMENTS:
 
 1. You need to have Ollama Running on your System
-   Check out these videos on Ollama: 
+   Check out these videos on Ollama:
+   Ollama Videos:
+https://youtu.be/lhQ8ixnYO2Y
+https://youtu.be/ridRXgAmqoQ
+https://youtu.be/oguOlJz7RIY
